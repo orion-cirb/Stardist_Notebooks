@@ -1,10 +1,9 @@
-# Stardist_Notebook
+# Stardist_Notebooks
 Jupyter notebooks for training models
 
-* **Developed for:** Orion
-* **Team:** orion
+* **Developed for:** Orion image analysis facility
 * **Date:** January 2023
-* **Software:** Conda, python, jupyter notebook
+* **Software:** Jupyter notebooks
 
 ### Conda envs (to create conda env  : conda create -n myenv --file package-list.txt)
   stardist.txt env for training notebook
